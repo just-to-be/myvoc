@@ -1,0 +1,14 @@
+#ignoruj soubory překladače
+*.[oa]
+*.do
+
+#ignoruj záložáky emacsu
+*~
+
+#ignoruj soubory začínající křížkem
+\#*
+
+#ignoruj binárky
+myvoc
+myvoc.dbg
+
